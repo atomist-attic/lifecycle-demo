@@ -7,7 +7,7 @@ This [Rug][rug] archive contains My new project
 
 [rug]: http://docs.atomist.com/
 
-After you create a project with this generator, you may enjoy the compatible editors in [atomisthqa:rug-editors](https://github.com/atomisthqa/rug-editors).
+After you create a project with this generator, you may enjoy the compatible editors in [atomisthqa:rug-editors](https://github.com/atomisth-rugs/rug-editors).
 
 ## Rugs
 
@@ -39,7 +39,7 @@ Run it as follows:
 
 ```
 $ cd to/the/repo
-$ rug edit atomisthqa:lifecycle-demo:AddReadme \
+$ rug edit atomisthq:lifecycle-demo:AddReadme \
     project_name=fun-project \
     description='A project that needs a README'
 ```
@@ -56,7 +56,7 @@ at [atomist-community.slack.com][slack].
 
 If you find a problem, please create an [issue][].
 
-[issue]: https://github.com/atomisthqa/lifecycle-demo/issues
+[issue]: https://github.com/atomisthq/lifecycle-demo/issues
 
 ## Development
 
