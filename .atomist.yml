@@ -16,3 +16,24 @@ generator:
     - "version": "0.1.0"
     - "description": "My new project"
 
+---
+kind: "operation"
+client: "atomist-bot"
+executor:
+  name: "EnableTravisForRugArchive"
+  group: "atomist-rugs"
+  artifact: "travis-editors"
+  version: "0.12.2"
+  origin:
+    repo: "https://github.com/atomist-rugs/travis-editors.git"
+    branch: "fb5fab9406ad30c0be90cb8272a8bb22fd8a3242"
+    sha: "fb5fab9"
+  parameters:
+    - "github_token": "a**************************************8"
+    - "maven_user": "t***************y"
+    - "maven_token": "z**************7"
+    - "owner": "atomisthq"
+    - "repo": "lifecycle-demo"
+    - "org": ".org"
+    - "maven_base_url": "https://atomist.jfrog.io/atomist"
+
