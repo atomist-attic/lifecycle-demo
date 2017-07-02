@@ -80,7 +80,7 @@ appropriate [semantic version][semver] for release.  For example:
 ```
 $ git tag -a 1.2.3
 ```
-
+sf
 The Travis CI build (see badge at the top of this page) will
 automatically create a GitHub release using the tag name for the
 release and the comment provided on the annotated tag as the contents
