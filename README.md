@@ -11,7 +11,7 @@ After you create a project with this generator, you may enjoy the compatible edi
  
 ## Rugs  
 
-### AddReadme
+### AddReadme 
 
 The AddReadme editor adds a GitHub-like `README.md` to a project.
 d 
