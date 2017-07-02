@@ -25,7 +25,7 @@ satisfied.
 #### Parameters
 
 To run this editor, you must supply the following parameters.
-
+ 
 Name | Required | Default | Description
 -----|----------|---------|------------
 `project_name` | Yes | | A valid GitHub repository name.
