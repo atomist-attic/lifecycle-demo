@@ -16,7 +16,7 @@ After you create a project with this generator, you may enjoy the compatible edi
 The AddReadme editor adds a GitHub-like `README.md` to a project.
 d
 #### Prerequisites
-
+ 
 Before running this editor, you must have the following prerequisites
 satisfied.
 
