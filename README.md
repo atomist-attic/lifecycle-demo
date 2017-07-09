@@ -28,7 +28,7 @@ To run this editor, you must supply the following parameters.
 
 Name | Required | Default | Description
 -----|----------|---------|------------
-`project_name` | Yes | | A valid GitHub repository name.
+`project_name` | Yes | | A valid GitHub repository namadade.
 `description` | No | My new project | A brief description of the project between 1 and 100 characters.
 
 [semver]: http://semver.org
