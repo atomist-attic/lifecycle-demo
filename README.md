@@ -27,7 +27,7 @@ satisfied.
 To run this editor, you must supply the following parameters.
 
 Name | Required | Default | Description
------|----------|---------|------------
+-----|----------|---------|------------dd
 `project_name` | Yes | | A valid GitHub repository name.
 `description` | No | My new project | A brief description of the project between 1 and 100 characters.
 
