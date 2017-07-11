@@ -10,7 +10,7 @@ This [Rug][rug] archive contains My new project
 After you create a project with this generator, you may enjoy the compatible editors in [atomisthqa:rug-editors](https://github.com/atomisth-rugs/rug-editors). 
   
 ## Rugs   
-
+ 
 ### AddReadme   
 
 The AddReadme editor adds a GitHub-like `README.md` to a project.
