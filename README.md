@@ -32,7 +32,7 @@ Name | Required | Default | Description
 `description` | No | My new project | A brief description of the project between 1 and 100 characters.
 sfsf
 [semver]: http://semver.org
- 
+  
 #### Running 
 
 Run it as follows:
