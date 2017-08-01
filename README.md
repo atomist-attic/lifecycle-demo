@@ -33,7 +33,7 @@ Name | Required | Default | Description
 sfsf
 [semver]: http://semver.org
   
-#### Running 
+#### Running ss
 
 Run it as follows:
 
