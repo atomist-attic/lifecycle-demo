@@ -1,7 +1,6 @@
 # lifecycle-demo
 
 [![Build Status](https://travis-ci.org/atomisthq/lifecycle-demo.svg?branch=master)](https://travis-ci.org/atomisthq/lifecycle-demo)
-[![Slack Status](https://join.atomist.com/badge.svg)](https://join.atomist.com)
 
 This [Rug][rug] archive contains My new project
 
