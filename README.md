@@ -12,7 +12,7 @@ After you create a project with this generator, you may enjoy the compatible edi
  adad
 ### AddReadme   xxx
 sd
-The AddReadme editor adds a GitHub-like `README.md` to a projxxxect.
+The AddReadme editor adds a GitHub-like `README.md` to a praadaojxxxect.
 
 #### Prerequisites 
    
