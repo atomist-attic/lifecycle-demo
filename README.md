@@ -14,7 +14,7 @@ After you create a project with this generator, you may enjoy the compatible edi
 sd
 The AddReadme editor adds a GitHub-like `README.md` to a praadaojxxxect.
 
-#### Prerequisites 
+#### Prerequisites c  
    
 Before running this editor, you must have the following prerequisites 
 satisfied.
