@@ -16,7 +16,7 @@ The AddReadme editor adds a GitHub-like `README.mdadad` to a projxxxect.
 
 #### Prerequisites 
   
-Before running this editor, you must have the following prerequisites 
+Before running this editor, you must have the following prerequisites axaxa
 satisfied.
 
 *   A source code repository
