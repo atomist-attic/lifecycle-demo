@@ -15,7 +15,7 @@ sd
 The AddReadme editor adds a GitHub-like `README.md` to a projxxxect.
 
 #### Prerequisites 
-  
+   
 Before running this editor, you must have the following prerequisites 
 satisfied.
 
