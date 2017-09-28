@@ -10,7 +10,7 @@ After you create a project with this generator, you may enjoy the compatible edi
   s
 ## Rugs   ss
  
-### AddReadme   xxx
+### AddReadme   xxx 
 sd
 The AddReadme editor adds a GitHub-like `README.mdadad` to a projxxxect.
 yxcyc  
