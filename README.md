@@ -54,7 +54,7 @@ General support questions should be discussed in the `#support`
 channel on our community Slack team
 at [atomist-community.slack.com][slack]. 
 
-If you find a problem, please create an [issue][].
+If you find a problem, please create an [issue][].fdffgdg
 
 [issue]: https://github.com/atomisthq/lifecycle-demo/issues
 
