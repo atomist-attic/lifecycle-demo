@@ -14,7 +14,7 @@ env:
   - secure: Q/MOWQkPz2awTbLXop/fG45CgaSaD++5JalO3CW+cKh4lX65TCXEjwl76tIMDBclRIlL1oMsrt4Fgqvfxv2/ngVOybXJIrJQx6w6hJmNctk5Xg27vefLnRQp6LkOtKVXRN8WHb4kAe0zJ7XIgV1PcMG6BkAxaDD165Nwon9clJ+LPg+IXSnqBHI+N68tgtsMqw17PSNLtfV+Y5140eftTArgloKXssK2A0WSPR38MpVmoP87XTsKorQjCbGLceihij1AST+FEMNP036iVx3cTyrpP8s1bDRhaf0tmpqfEhJi25lDAazBC60i0zpBrmO07kXCw2QX2zfjXn2JOcC+Wfix/jCTPq0PcVReePTfEQ5kDuSsUDq3ba5WLPV7yumnhwCmF4nldDNBGPeKzJKmiDzwfnKyhpx0s8mFn7Krs7c97bf1ctad8l9KQt+qn/F2yjrsP3clTZf8AetQwVUXcQIWqZYZ/buBKbSPQeN20qPeK5ZoUmumNwK4HUKN/rebbeMcU7Olad/hJTstSG3rPc5ggYRmqFiXCGk23tHit0jW3nKDu4Zg93D4FZpPQTysYm3VPTDrH2+kSqjDPuADkVFwP658Dc8qBm/7dcsoX/sVnMTD8KdcNb01LPUEzyHB/H1RiN9h697MVwmrztYKWaL31tdmOiYZRroVLaEkW7o=
 install:
 - nvm install 6.9.2
-script: bash .atomist/build/travis-build.bash
+script: echo "hey"
 notifications:
   email: false
   webhooks:
