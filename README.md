@@ -20,7 +20,6 @@ Before running this editor, you must have the following prerequisites
 satisfied.
 
 *   A source code repository
-       
 #### Parameters   s
 
 To run this editor, you must supply the following parameters.
