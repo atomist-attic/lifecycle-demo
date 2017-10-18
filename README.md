@@ -7,7 +7,7 @@ This [Rug][rug] archive contains My new project
 [rug]: http://docs.atomist.com/
 
 After you create a project with this generator, you may enjoy the compatible editors in [atomisthqa:rug-editors](https://github.com/atomisth-rugs/rug-editors). 
-  s dd
+  s dd 
 ## Rugs   ss vbla sfsf
  
 ### AddReadme   xxx
