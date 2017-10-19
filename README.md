@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/atomisthq/lifecycle-demo.svg?branch=master)](https://travis-ci.org/atomisthq/lifecycle-demo)
 
-This [Rug][rug] archive contains My new project
+This [Rug][rug] archive contains My new project 
 
 [rug]: http://docs.atomist.com/
  
