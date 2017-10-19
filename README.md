@@ -87,7 +87,7 @@ artifacts.
  
 
 ---
-Created by [Atomist][atomist].
+Created by [Atomist][atomis t].
 Need Help?  [Join our Slack team][slack].
 
 [atomist]: https://www.atomist.com/
