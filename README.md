@@ -29,7 +29,7 @@ Name | Required | Default | Description
 `project_name` | Yes | | A valid GitHub repository name.
 `description` | No | My new project | A brief des   cription of the project between 1 and 100 characters.
 sfsf
-[semver]: http://semver.org
+[semver]: http://semver.org  
   
 #### Running ss
 
