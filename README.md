@@ -19,7 +19,7 @@ The AddReadme editor adds a GitHub-like `README.mdadad` to a projxxxect.
 Before running this editor, you must have the following prerequisites cccc
 satisfied.  sca
 
-*   A source code repository
+*   A source code repository 
 #### Parameters   s
 
 To run this editor, you must supply the following parameters.
